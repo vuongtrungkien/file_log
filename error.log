@@ -1,0 +1,99 @@
+[Tue Sep 03 08:23:14.401402 2019] [mpm_event:notice] [pid 4244:tid 140078457142208] AH00489: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 08:23:14.401511 2019] [core:notice] [pid 4244:tid 140078457142208] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 08:36:06.974802 2019] [mpm_event:notice] [pid 4244:tid 140078457142208] AH00491: caught SIGTERM, shutting down
+[Tue Sep 03 08:36:07.008471 2019] [mpm_prefork:notice] [pid 14487] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 08:36:07.008638 2019] [core:notice] [pid 14487] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 08:36:07.523132 2019] [mpm_prefork:notice] [pid 14487] AH00169: caught SIGTERM, shutting down
+[Tue Sep 03 08:36:07.569259 2019] [mpm_prefork:notice] [pid 14549] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 08:36:07.569311 2019] [core:notice] [pid 14549] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 08:37:58.320912 2019] [mpm_prefork:notice] [pid 14549] AH00169: caught SIGTERM, shutting down
+[Tue Sep 03 08:37:58.369769 2019] [mpm_prefork:notice] [pid 14639] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 08:37:58.369817 2019] [core:notice] [pid 14639] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 10:04:19.866921 2019] [mpm_prefork:notice] [pid 14639] AH00169: caught SIGTERM, shutting down
+[Tue Sep 03 10:04:19.929491 2019] [mpm_prefork:notice] [pid 24442] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 10:04:19.929547 2019] [core:notice] [pid 24442] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 10:47:09.490816 2019] [php7:error] [pid 24443] [client ::1:45330] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 10:47:53.931678 2019] [mpm_prefork:notice] [pid 24442] AH00169: caught SIGTERM, shutting down
+[Tue Sep 03 10:47:53.982109 2019] [mpm_prefork:notice] [pid 27796] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 10:47:53.982149 2019] [core:notice] [pid 27796] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 10:48:01.352984 2019] [php7:error] [pid 27797] [client ::1:45370] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 10:56:29.329044 2019] [php7:error] [pid 27800] [client ::1:45740] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:12:18.085947 2019] [mpm_prefork:notice] [pid 27796] AH00169: caught SIGTERM, shutting down
+[Tue Sep 03 11:12:18.144027 2019] [mpm_prefork:notice] [pid 8075] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 11:12:18.144073 2019] [core:notice] [pid 8075] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 11:15:04.250807 2019] [php7:error] [pid 8078] [client ::1:46268] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:24:18.173117 2019] [php7:error] [pid 8377] [client ::1:46550] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:24:52.556416 2019] [php7:error] [pid 8079] [client ::1:46562] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:24:55.822227 2019] [php7:error] [pid 8079] [client ::1:46562] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:24:56.301993 2019] [php7:error] [pid 8079] [client ::1:46562] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:24:56.453550 2019] [php7:error] [pid 8079] [client ::1:46562] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:24:56.668673 2019] [php7:error] [pid 8079] [client ::1:46562] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:25:15.016937 2019] [php7:error] [pid 8076] [client ::1:46566] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:25:15.280918 2019] [php7:error] [pid 8076] [client ::1:46566] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:25:15.383569 2019] [php7:error] [pid 8076] [client ::1:46566] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:25:15.513515 2019] [php7:error] [pid 8076] [client ::1:46566] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:25:15.694757 2019] [php7:error] [pid 8076] [client ::1:46566] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:27:03.240165 2019] [php7:error] [pid 8377] [client ::1:46578] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:27:03.955876 2019] [php7:error] [pid 8377] [client ::1:46578] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:27:04.091759 2019] [php7:error] [pid 8377] [client ::1:46578] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 11:27:14.460910 2019] [php7:error] [pid 8079] [client ::1:46584] script '/var/www/html/phpinfo.php' not found or unable to stat
+[Tue Sep 03 15:11:43.676586 2019] [php7:error] [pid 8079] [client ::1:54714] script '/var/www/html/alo.php' not found or unable to stat
+[Tue Sep 03 15:53:03.892664 2019] [php7:notice] [pid 8377] [client ::1:55520] PHP Notice:  Undefined variable: x in /var/www/html/alo/alo.php on line 6
+[Tue Sep 03 16:01:32.840429 2019] [php7:error] [pid 8080] [client ::1:55734] script '/var/www/html/alo/welcome.php' not found or unable to stat, referer: http://localhost/alo/alo.html
+[Tue Sep 03 16:03:02.223151 2019] [php7:notice] [pid 9233] [client ::1:55744] PHP Notice:  Undefined index: name in /var/www/html/alo/alo.php on line 8
+[Tue Sep 03 16:03:02.223204 2019] [php7:notice] [pid 9233] [client ::1:55744] PHP Notice:  Undefined index: email in /var/www/html/alo/alo.php on line 9
+[Tue Sep 03 16:44:30.858079 2019] [mpm_prefork:notice] [pid 8075] AH00169: caught SIGTERM, shutting down
+[Wed Sep 04 10:05:37.864454 2019] [mpm_prefork:notice] [pid 964] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Sep 04 10:05:37.864846 2019] [core:notice] [pid 964] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Sep 04 10:39:00.863094 2019] [php7:notice] [pid 20123] [client ::1:43612] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/alo/alo.php on line 8
+[Wed Sep 04 10:44:16.995423 2019] [php7:emerg] [pid 20123] [client ::1:45302] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/alo/alo.php on line 16
+[Wed Sep 04 10:49:32.643129 2019] [php7:error] [pid 970] [client ::1:47830] script '/var/www/html/alo/test_get.php' not found or unable to stat, referer: http://localhost/alo/alo.php
+[Wed Sep 04 12:27:07.737089 2019] [mpm_prefork:notice] [pid 964] AH00169: caught SIGTERM, shutting down
+[Wed Sep 04 13:31:14.521736 2019] [mpm_prefork:notice] [pid 959] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Wed Sep 04 13:31:14.522110 2019] [core:notice] [pid 959] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Sep 04 17:27:08.302727 2019] [mpm_prefork:notice] [pid 959] AH00169: caught SIGTERM, shutting down
+[Thu Sep 05 03:50:51.647111 2019] [mpm_prefork:notice] [pid 1104] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Thu Sep 05 03:50:51.649055 2019] [core:notice] [pid 1104] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Sep 04 21:35:23.197884 2019] [php7:notice] [pid 1134] [client ::1:38828] PHP Notice:  Undefined index: firstNum in /var/www/html/practice/calculator_application/index.php on line 8
+[Wed Sep 04 21:35:23.197955 2019] [php7:notice] [pid 1134] [client ::1:38828] PHP Notice:  Undefined index: secondNum in /var/www/html/practice/calculator_application/index.php on line 9
+[Wed Sep 04 21:35:23.197961 2019] [php7:notice] [pid 1134] [client ::1:38828] PHP Notice:  Undefined index: calculations in /var/www/html/practice/calculator_application/index.php on line 10
+[Wed Sep 04 21:35:46.003386 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: firstNum in /var/www/html/practice/calculator_application/index.php on line 8, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:46.003525 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: secondNum in /var/www/html/practice/calculator_application/index.php on line 9, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:47.709804 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: firstNum in /var/www/html/practice/calculator_application/index.php on line 8, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:47.709887 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: secondNum in /var/www/html/practice/calculator_application/index.php on line 9, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:47.950389 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: firstNum in /var/www/html/practice/calculator_application/index.php on line 8, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:47.950448 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: secondNum in /var/www/html/practice/calculator_application/index.php on line 9, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:48.135030 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: firstNum in /var/www/html/practice/calculator_application/index.php on line 8, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:48.135096 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: secondNum in /var/www/html/practice/calculator_application/index.php on line 9, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:48.326174 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: firstNum in /var/www/html/practice/calculator_application/index.php on line 8, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:48.326283 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: secondNum in /var/www/html/practice/calculator_application/index.php on line 9, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:48.541927 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: firstNum in /var/www/html/practice/calculator_application/index.php on line 8, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:35:48.541987 2019] [php7:notice] [pid 1136] [client ::1:38836] PHP Notice:  Undefined index: secondNum in /var/www/html/practice/calculator_application/index.php on line 9, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:36:13.745137 2019] [php7:warn] [pid 1132] [client ::1:38842] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 17, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:36:13.745208 2019] [php7:warn] [pid 1132] [client ::1:38842] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 17, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:37:57.037971 2019] [php7:notice] [pid 1133] [client ::1:38866] PHP Notice:  Undefined variable: result in /var/www/html/practice/calculator_application/index.php on line 24, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:02.155555 2019] [php7:notice] [pid 1134] [client ::1:38868] PHP Notice:  Undefined variable: result in /var/www/html/practice/calculator_application/index.php on line 24, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:31.933364 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:31.933443 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:32.491032 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:32.491108 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:32.650326 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:32.650390 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:32.801666 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:32.801739 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:32.987966 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:32.988062 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:38:36.057236 2019] [php7:warn] [pid 1133] [client ::1:38880] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:39:24.042479 2019] [php7:warn] [pid 1135] [client ::1:38890] PHP Warning:  A non-numeric value encountered in /var/www/html/practice/calculator_application/index.php on line 15, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 21:39:35.014865 2019] [php7:warn] [pid 1136] [client ::1:38892] PHP Warning:  Division by zero in /var/www/html/practice/calculator_application/index.php on line 28, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 22:10:28.559224 2019] [php7:warn] [pid 1132] [client ::1:39954] PHP Warning:  Division by zero in /var/www/html/practice/calculator_application/index.php on line 28, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 22:10:50.120189 2019] [php7:warn] [pid 1136] [client ::1:39986] PHP Warning:  Division by zero in /var/www/html/practice/calculator_application/index.php on line 28, referer: http://localhost/practice/calculator_application/
+[Wed Sep 04 22:28:44.458136 2019] [mpm_prefork:notice] [pid 1104] AH00169: caught SIGTERM, shutting down
+[Thu Sep 05 07:56:09.513282 2019] [mpm_prefork:notice] [pid 977] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Thu Sep 05 07:56:09.513514 2019] [core:notice] [pid 977] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Sep 05 10:01:27.358281 2019] [php7:warn] [pid 1008] [client ::1:42010] PHP Warning:  Division by zero in /var/www/html/practice/calculator_application/index.php on line 28, referer: http://localhost/practice/calculator_application/
+[Thu Sep 05 10:01:34.195768 2019] [php7:warn] [pid 1007] [client ::1:42012] PHP Warning:  Division by zero in /var/www/html/practice/calculator_application/index.php on line 28, referer: http://localhost/practice/calculator_application/
+[Thu Sep 05 10:07:35.271794 2019] [php7:warn] [pid 1009] [client ::1:42114] PHP Warning:  Division by zero in /var/www/html/practice/calculator_application/index.php on line 28, referer: http://localhost/practice/calculator_application/
+[Thu Sep 05 14:14:40.444548 2019] [mpm_prefork:notice] [pid 977] AH00169: caught SIGTERM, shutting down
+[Thu Sep 05 14:17:37.379164 2019] [mpm_prefork:notice] [pid 949] AH00163: Apache/2.4.29 (Ubuntu) configured -- resuming normal operations
+[Thu Sep 05 14:17:37.379546 2019] [core:notice] [pid 949] AH00094: Command line: '/usr/sbin/apache2'
